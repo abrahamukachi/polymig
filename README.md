@@ -5,22 +5,15 @@ A simple tool that resizes, converts, renames and creates your app's icon into 8
 
 - Note: These generated image files will be saved in `[<your-current-directory>]/polymig/images/touch`.
 
-### Install
-
-#### Bower
+### Bower Install
 
 ```bash
 $ bower install --save abilasco/polymig
 ```
 
-#### NPM
-
-```bash
-$ npm install -g polymig
-```
 
 ### Usage
 
 ```bash
-$ polymig app-icon.jpeg
+$ ./polymig.sh app-icon.jpeg
 ```
