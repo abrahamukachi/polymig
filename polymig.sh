@@ -1,7 +1,6 @@
 #!/bin/bash -e
 #
-# Copyright (c) 2016 Ukachi Abraham - abrahamukachi@gmail.com. All rights reserved.
-
+# Author: Ukachi Abraham - <abrahamukachi@gmail.com>
 # version 0.1
 
 # polymig
