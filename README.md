@@ -17,5 +17,5 @@ Note: These generated image files will be saved in `[<your-current-directory>]im
 
 :warning: **Important**: Your selected file's format should be `more than 512x512`
  ```bash
- $ ./polymig app-icon.jpeg
+ $ ./polymig.sh app-icon.jpeg
  ```
